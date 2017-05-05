@@ -1,6 +1,6 @@
 # Hello-world
 Just a small test
 
-Hi, Taozaizi:
-  Today is a good day.
-  how do you like it?
+Hi, man:
+  Tzz here!I'll find and occupy here!
+  Are you ready?
